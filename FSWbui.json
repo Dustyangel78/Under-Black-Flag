@@ -1,33 +1,33 @@
 	
 	{
-	"ServerName":"PVE Feierabend Zocker DE",
-	"ButtonTxt1":"Server Regeln",
-	"ButtonTxt2":"Server Einstellungen ",
-	"ButtonTxt3":"Server News",
+	"ServerName":"Under Black Flag",
+	"ButtonTxt1":"Welcome",
+	"ButtonTxt2":"Server Regeln",
+	"ButtonTxt3":"",
 	"ButtonTxt4":"",
 	"ButtonTxt5":"",
-	"LinkButtonTxt1":"Discord",
-	"LinkButtonTxt2":"Mod Sammlung",
+	"LinkButtonTxt1":"Ersteller",
+	"LinkButtonTxt2":"",
 	"LinkButtonTxt3":"Donate",
-	"LinkButtonTxt4":"Map Bearbeitung",
-	"LinkButtonTxt5":"",
-	"LinkButton1":"https://discord.gg/Sj59Jmhj",
-	"LinkButton2":"https://steamcommunity.com/workshop/filedetails/?id=3343651951",
-	"Link1Button3":"https://www.g-portal.com/eur/donate/6296c851acbdde7a02520bc69a200a1e/hitmann1988",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"Modliste",
+	"LinkButton1":"https://steamcommunity.com/profiles/76561198119156779/",
+	"LinkButton2":"https://discord.gg/wmWEnbHf",
+	"Link1Button3":"",
 	"Link2Button3":"",
 	"Link3Button3":"",
 	"Link4Button3":"",
-	"Link1Button4":"https://steamcommunity.com/profiles/76561197979970126/",
+	"Link1Button4":"",
 	"Link2Button4":"",
 	"Link3Button4":"",
 	"Link4Button4":"",
-	"Link1Button5":"",
+	"Link1Button5":"https://steamcommunity.com/sharedfiles/filedetails/?id=3343651951",
 	"Link2Button5":"",
 	"Link3Button5":"",
 	"Link4Button5":"",
 	"Tab1Panelcount":1,
-	"Tab2Panelcount":2,
-	"Tab3Panelcount":2,
+	"Tab2Panelcount":1,
+	"Tab3Panelcount":1,
 	"Tab4Panelcount":1,
 	"Tab5Panelcount":1,
 	"BackgroundTab1":0,
@@ -36,18 +36,18 @@
 	"BackgroundTab4":0,
 	"BackgroundTab5":0,
 	"Background3Color":"",
-	"FontColorButtons":"51,51,255",
-	"FontColorServerName":"255,0,0",
-	"FontColorTabTitles":"51,255,51",
-	"FontColorTabText":"0,255,255",
+	"FontColorButtons":"",
+	"FontColorServerName":"",
+	"FontColorTabTitles":"",
+	"FontColorTabText":"",
 	"UseSteamBrowserLink1":false,
-	"UseSteamBrowserLink2":true,
-	"Tab1Title1":"",
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Server Einstellung",
 	"Tab1Title2":"",
 	"Tab1Title3":"",
-	"Tab2Title1":"Einstellungen",
-	"Tab2Title2":"Map probleme ",
-	"Tab2Title3":"Server News",
+	"Tab2Title1":"",
+	"Tab2Title2":"",
+	"Tab2Title3":"",
 	"Tab3Title1":"",
 	"Tab3Title2":"",
 	"Tab3Title3":"",
@@ -57,7 +57,29 @@
 	"Tab5Title1":"",
 	"Tab5Title2":"",
 	"Tab5Title3":"",
-	"Tab1Text1":"Belaestigung von Mitspielern ist verboten. Hierunter fallen u.a. Beleidigungen, sexistische, radikale sowie nationalsozialistische Äußerungen.
+	"Tab1Text1":"Willkommen auf Under Black Flag
+Das sind die Server Einstellungen :
+Server PVE
+Reduzierter Vitamin verbrauch
+Reduzierter Essen/wasser Verbrauch
+X2.5 Gold 
+Harvesting X2.8
+XP X3.5
+Taming X6
+baby mature speed x20
+MatingIntervalMultiplier x0.25
+EggHatchSpeedMultiplier x10
+BabyMatureSpeedMultiplier x25
+BabyImprintAmountMultiplier x4
+Center Maw
+
+WORKING MAPs, 
+Working Warehouses
+
+PC ONLY SERVER.",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"Belaestigung von Mitspielern ist verboten. Hierunter fallen u.a. Beleidigungen, sexistische, radikale sowie nationalsozialistische Äußerungen.
 
 Ebenso duerfen Charakter, Tier, Insel und Schiffsnamen keine Beleidigungen, sexistische, radikale sowie nationalsozialistische Aeußerungen beinhalten.
 
@@ -93,36 +115,9 @@ Alle Arten von Strukturen außerhalb der Basis ( wie z.B. Lagerfeuer, Schraenke,
 
 maximale Claims pro Company/ Singleplayer:
 Es darf maximal eine Inseln geclaimt werden.",
-	"Tab1Text2":"Neuigkeiten zum Server...... Smart Decay wurde installiert verfall bei nicht Onlinespieler liegt bei 25 Tagen, nach 20 Tagen kommt das Decay Zeichen womit eure Basis von anderen Piraten geplündert werden kann.
-Es sind dann noch 5 Tagee bis zur vollstaendigen Loeschung. Solltet Ihr vorher online kommen wird das dacay verhindert. Die Decay zeichen verschwinden erst bei Serverneustart Täglich um 03.45 Uhr.
-Freeport ist Shipdecay auf 2 Tage festgesetzt.",
-	"Tab1Text3":"Neuigkeiten zum Server...... Smart Decay wurde installiert verfall bei nicht Onlinespieler liegt bei 25 Tagen, nach 20 Tagen kommt das Decay Zeichen womit eure Basis von anderen Piraten geplündert werden kann.
-Es sind dann noch 5 Tagee bis zur vollstaendigen Loeschung. Solltet Ihr vorher online kommen wird das dacay verhindert. Die Decay zeichen verschwinden erst bei Serverneustart Täglich um 03.45 Uhr.
-Freeport ist Shipdecay auf 2 Tage festgesetzt. ",
-	"Tab2Text1":"Server PVE
-Reduzierter Vitamin verbrauch
-Reduzierter Essen/wasser Verbrauch
-X2.5 Gold 
-Harvesting X2.8
-XP X3.5
-Taming X6
-baby mature speed x20
-MatingIntervalMultiplier x0.25
-EggHatchSpeedMultiplier x10
-BabyMatureSpeedMultiplier x25
-BabyImprintAmountMultiplier x4
-Center Maw
-
-WORKING MAPs, 
-Working Warehouses
-
-PC ONLY SERVER. ",
-	"Tab2Text2":"Zur Zeit funktioniert die Map lediglich wenn man sich auf Freeport einloggt.
-Daher die 2x2 Hütten mit Bett. ",
+	"Tab2Text2":"",
 	"Tab2Text3":"",
-	"Tab3Text1":"Neuigkeiten zum Server...... Smart Decay wurde installiert verfall bei nicht Onlinespieler liegt bei 25 Tagen, nach 20 Tagen kommt das Decay Zeichen womit eure Basis von anderen Piraten geplündert werden kann.
-Es sind dann noch 5 Tagee bis zur vollstaendigen Loeschung. Solltet Ihr vorher online kommen wird das dacay verhindert. Die Decay zeichen verschwinden erst bei Serverneustart Täglich um 03.45 Uhr.
-Freeport ist Shipdecay auf 2 Tage festgesetzt.",
+	"Tab3Text1":"",
 	"Tab3Text2":"",
 	"Tab3Text3":"",
 	"Tab4Text1":"",
@@ -131,4 +126,4 @@ Freeport ist Shipdecay auf 2 Tage festgesetzt.",
 	"Tab5Text1":"",
 	"Tab5Text2":"",
 	"Tab5Text3":""
-}	
+}
