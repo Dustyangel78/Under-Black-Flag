@@ -1,0 +1,111 @@
+	
+	{
+	"ServerName":"PVE Feierabend Zocker DE",
+	"ButtonTxt1":"",
+	"ButtonTxt2":"Server  ",
+	"ButtonTxt3":"",
+	"ButtonTxt4":"",
+	"ButtonTxt5":"",
+	"LinkButtonTxt1":"Discord",
+	"LinkButtonTxt2":"Mod Sammlung",
+	"LinkButtonTxt3":"Donate",
+	"LinkButtonTxt4":"Sponsoring",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://discord.gg/wmWEnbHf",
+	"LinkButton2":"https://steamcommunity.com/workshop/filedetails/?id=3343651951",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"https://steamcommunity.com/profiles/76561197979970126/",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":1,
+	"Tab2Panelcount":2,
+	"Tab3Panelcount":1,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":0,
+	"BackgroundTab2":0,
+	"BackgroundTab3":14,
+	"BackgroundTab4":0,
+	"BackgroundTab5":0,
+	"Background3Color":"",
+	"FontColorButtons":"51,51,255",
+	"FontColorServerName":"255,0,0",
+	"FontColorTabTitles":"51,255,51",
+	"FontColorTabText":"",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":true,
+	"Tab1Title1":"",
+	"Tab1Title2":"",
+	"Tab1Title3":"",
+	"Tab2Title1":"Einstellungen",
+	"Tab2Title2":"Map probleme ",
+	"Tab2Title3":"",
+	"Tab3Title1":"",
+	"Tab3Title2":"",
+	"Tab3Title3":"",
+	"Tab4Title1":"",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Belästigung von Mitspielern ist verboten. Hierunter fallen u.a. Beleidigungen, sexistische, radikale sowie nationalsozialistische Äußerungen.\n
+Ebenso dürfen Charakter-, Tier-, Insel- und Schiffsnamen keine Beleidigungen, sexistische, radikale sowie nationalsozialistische Äußerungen beinhalten.\n
+Chatsprache: Deutsch\n
+Ausnutzen von Grauzonen: Beim Ausnutzen von Grauzonen, welche nicht oder nur indirekt im Regelwerk stehen, behält sich das Admin-Team vor, separat zu beurteilen.\n
+Bitte achtet auf eine jugendfreie und gewaltfreie Bemalung eurer Flaggen und Segel. Ebenso sind Beleidigungen, sexistische, radikale sowie nationalsozialistische Bemalungen verboten!\n
+Es ist verboten Items, Schiffe oder Tiere für Echtgeld zu kaufen oder zu verkaufen. Dies führt direkt zum Bann!\n
+Das plazieren von Sprungpunkten auf den Inseln ist untersagt.\n
+Damit sind vorallem Kombinationen aus einem Fundament und einem Bett gemeint !\n
+Das Trollen anderer Spieler ist untersagt, das Team hält sich vor beim Verstoß, Schritte dagegen einzuleiten.\n
+Das Bauen auf dem Freeport ist erlaubt mit ein paar Beachtungen:\n
+A . Hütten maximal 2X2 Grundfläche maximal 3 Stockwerke\n
+B .Schiffswerften sind zum Bau zugelassen,nach beendigung des Baus müssen werften aufgenommen/abgerissen weden,Das gild auch für alle anderen Bauten bis auf die 2x2 Hütten\n
+Es ist nicht gestattet Tiere und Schiffe zu verschenken.\n
+Ebenso ist es untersagt entclaimte Tiere und Schiffe auf dem Server stehen zu lassen damit sie jemand anders finden und übernehmen kann.\n
+Tiere und Schiffe müssen zu einem angemessenen Preis angeboten werden. Dieser beträgt nicht z.B. nur ein Holz\n
+Es ist nicht gestattet Zuchtlinien zu verkaufen oder weiterzugeben.\n
+Die Anweisungen der Admins sind unbedingt zu beachten.\n
+Bei Regelverstößen behalten wir uns vor, dementsprechend zu handeln und gegebenenfalls neue Regeln hinzuzufügen. Zudem kann eine Verwarnung oder ein Bann erfolgen.\n
+Alle Arten von Strukturen außerhalb der Basis ( wie z.B. Lagerfeuer, Schränke, Fundamente, Fallen) müssen nach Gebrauch wieder entfernt werden. Weiterhin dürfen keine Spawns zugebaut oder blockiert werden.\n
+maximale Claims pro Company/ Singleplayer:\n
+Es darf maximal eine Inseln geclaimt werden.",
+	"Tab1Text2":"",
+	"Tab1Text3":"",
+	"Tab2Text1":"Server PVE
+Reduzierter Vitamin verbrauch\n
+Reduzierter Essen/wasser Verbrauch\n
+X2.5 Gold \n
+Harvesting X2.8\n
+XP X3.5\n
+Taming X6\n
+baby mature speed x20\n
+MatingIntervalMultiplier x0.25\n
+EggHatchSpeedMultiplier x10\n
+BabyMatureSpeedMultiplier x25\n
+BabyImprintAmountMultiplier x4\n
+Center Maw\n
+WORKING MAPs, \n
+Working Warehouses\n
+PC ONLY SERVER. ",
+	"Tab2Text2":"Zur Zeit funktioniert die Map lediglich wenn man sich auf Freeport einloggt.\\n
+Daher die 2x2 Hütten mit Bett. ",
+	"Tab2Text3":"",
+	"Tab3Text1":"",
+	"Tab3Text2":"",
+	"Tab3Text3":"",
+	"Tab4Text1":"",
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	
