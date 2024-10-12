@@ -1,6 +1,6 @@
 	
 	{
-	"ServerName":"PVE Feierabend Zocker DE",
+	"ServerName":"Under Black Flag",
 	"ButtonTxt1":"",
 	"ButtonTxt2":"Server  ",
 	"ButtonTxt3":"",
@@ -17,7 +17,7 @@
 	"Link2Button3":"",
 	"Link3Button3":"",
 	"Link4Button3":"",
-	"Link1Button4":"https://steamcommunity.com/profiles/76561197979970126/",
+	"Link1Button4":"https://steamcommunity.com/profiles/76561198119156779/",
 	"Link2Button4":"",
 	"Link3Button4":"",
 	"Link4Button4":"",
@@ -46,7 +46,7 @@
 	"Tab1Title2":"",
 	"Tab1Title3":"",
 	"Tab2Title1":"Einstellungen",
-	"Tab2Title2":"Map probleme ",
+	"Tab2Title2":"Map",
 	"Tab2Title3":"",
 	"Tab3Title1":"",
 	"Tab3Title2":"",
@@ -96,8 +96,7 @@ Center Maw\n
 WORKING MAPs, \n
 Working Warehouses\n
 PC ONLY SERVER. ",
-	"Tab2Text2":"Zur Zeit funktioniert die Map lediglich wenn man sich auf Freeport einloggt.\\n
-Daher die 2x2 Hütten mit Bett. ",
+	"Tab2Text2":"",
 	"Tab2Text3":"",
 	"Tab3Text1":"",
 	"Tab3Text2":"",
@@ -108,4 +107,4 @@ Daher die 2x2 Hütten mit Bett. ",
 	"Tab5Text1":"",
 	"Tab5Text2":"",
 	"Tab5Text3":""
-	
+}	
