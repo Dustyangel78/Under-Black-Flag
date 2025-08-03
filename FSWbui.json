@@ -1,14 +1,14 @@
 	
 	{
 	"ServerName":"Blackbeards Island",
-	"ButtonTxt1":"Welcome",
+	"ButtonTxt1":"Willkommen",
 	"ButtonTxt2":"Server Regeln",
-	"ButtonTxt3":"Shipyards",
+	"ButtonTxt3":"Schiffs Werften",
 	"ButtonTxt4":"",
 	"ButtonTxt5":"",
 	"LinkButtonTxt1":"Ersteller",
 	"LinkButtonTxt2":"Discord",
-	"LinkButtonTxt3":"Donate",
+	"LinkButtonTxt3":"Spende",
 	"LinkButtonTxt4":"",
 	"LinkButtonTxt5":"Modliste",
 	"LinkButton1":"https://steamcommunity.com/sharedfiles/filedetails/?id=3348270281",
@@ -80,7 +80,7 @@ Working Warehouses
 PC ONLY SERVER.",
 	"Tab1Text2":"",
 	"Tab1Text3":"",
-	"Tab2Text1":"Belaestigung von Mitspielern ist verboten. Hierunter fallen u.a. Beleidigungen, sexistische, radikale sowie nationalsozialistische Äußerungen.
+	"Tab2Text1":"Belaestigung von Mitspielern ist verboten. Hierunter fallen u.a. Beleidigungen, sexistische, radikale sowie nationalsozialistische Aeusserungen.
 
 Ebenso duerfen Charakter, Tier, Insel und Schiffsnamen keine Beleidigungen, sexistische, radikale sowie nationalsozialistische Aeußerungen beinhalten.
 
@@ -119,10 +119,11 @@ Es darf maximal eine Inseln geclaimt werden.",
 	"Tab2Text2":"",
 	"Tab2Text3":"",
 	"Tab3Text1":"Custom Shipyads 
-Für Schiffe sind Custom Shipyards gedacht. Da könnt Ihr alle Vanilla und AS Schiffe Bauen.
+Für Schiffe sind Custom Shipyards gedacht. Da koennt Ihr alle Vanilla und AS Schiffe Bauen.
 Max level Schiffe 100 
+Mystic Shipyards max Level 110
 Wertigkeit im Trockendock aufwerten und zerlegen der Schiffe.
-Inkusive AbwrackTokens um die Expiriance auf andere Schiffe Zu uebertragen.",
+Inkusive Abwrack Tokens um die Erfahrungs Punkte auf andere Schiffe Zu uebertragen.",
 	"Tab3Text2":"",
 	"Tab3Text3":"",
 	"Tab4Text1":"",
@@ -132,4 +133,5 @@ Inkusive AbwrackTokens um die Expiriance auf andere Schiffe Zu uebertragen.",
 	"Tab5Text2":"",
 	"Tab5Text3":""
 }
+
 
