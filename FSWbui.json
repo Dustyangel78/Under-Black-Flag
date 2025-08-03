@@ -1,9 +1,9 @@
 	
 	{
-	"ServerName":"Blackbeards Place",
+	"ServerName":"Blackbeards Island",
 	"ButtonTxt1":"Welcome",
 	"ButtonTxt2":"Server Regeln",
-	"ButtonTxt3":"",
+	"ButtonTxt3":"Shipyards",
 	"ButtonTxt4":"",
 	"ButtonTxt5":"",
 	"LinkButtonTxt1":"Ersteller",
@@ -57,7 +57,7 @@
 	"Tab5Title1":"",
 	"Tab5Title2":"",
 	"Tab5Title3":"",
-	"Tab1Text1":"Willkommen auf Blackbeards Place
+	"Tab1Text1":"Willkommen auf Blackbeards Island
 Das sind die Server Einstellungen :
 Server PVE
 Reduzierter Vitamin verbrauch
@@ -118,7 +118,11 @@ maximale Claims pro Company/ Singleplayer:
 Es darf maximal eine Inseln geclaimt werden.",
 	"Tab2Text2":"",
 	"Tab2Text3":"",
-	"Tab3Text1":"",
+	"Tab3Text1":"Custom Shipyads 
+Für Schiffe sind Custom Shipyards gedacht. Da könnt Ihr alle Vanilla und AS Schiffe Bauen.
+Max level Schiffe 100 
+Wertigkeit im Trockendock aufwerten und zerlegen der Schiffe.
+Inkusive AbwrackTokens um die Expiriance auf andere Schiffe Zu uebertragen.",
 	"Tab3Text2":"",
 	"Tab3Text3":"",
 	"Tab4Text1":"",
@@ -128,3 +132,4 @@ Es darf maximal eine Inseln geclaimt werden.",
 	"Tab5Text2":"",
 	"Tab5Text3":""
 }
+
