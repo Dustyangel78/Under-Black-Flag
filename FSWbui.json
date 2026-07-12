@@ -4,7 +4,7 @@
 	"ButtonTxt1":"Willkommen",
 	"ButtonTxt2":"Server Regeln",
 	"ButtonTxt3":"Schiffs Werften",
-	"ButtonTxt4":"",
+	"ButtonTxt4":"Server Rules",
 	"ButtonTxt5":"",
 	"LinkButtonTxt1":"Ersteller",
 	"LinkButtonTxt2":"Discord",
@@ -126,7 +126,34 @@ Wertigkeit im Trockendock aufwerten und zerlegen der Schiffe.
 Inkusive Abwrack Tokens um die Erfahrungs Punkte auf andere Schiffe Zu uebertragen.",
 	"Tab3Text2":"",
 	"Tab3Text3":"",
-	"Tab4Text1":"",
+	"Tab4Text1":"Harassment of other players is prohibited. This includes, but is not limited to, insults and sexist, radical, or National Socialist remarks.
+
+Likewise, names given to characters, animals, islands, or ships must not contain insults or sexist, radical, or National Socialist remarks.
+
+Chat language: German.
+
+Exploiting gray areas: The admin team reserves the right to make individual judgments regarding the exploitation of gray areas not explicitly covered—or only indirectly covered—by the rules.
+
+Please ensure that the designs on your flags and sails are suitable for all ages and free of violence. Designs featuring insults or sexist, radical, or National Socialist content are also prohibited!
+
+Buying or selling items, ships, or animals for real money is prohibited. This will result in an immediate ban!
+
+Placing spawn points (e.g., bed/foundation combos) on islands is prohibited.
+This specifically refers to combinations of a foundation and a bed!
+Trolling other players is prohibited; the team reserves the right to take action against such behavior.
+Building in the Freeport area is permitted, subject to the following conditions:
+A. Huts are limited to a maximum footprint of 2x2 and a maximum height of 3 stories.
+B. Shipyards are permitted for construction purposes but must be dismantled/removed once construction is complete; this applies to all other structures as well, with the exception of the 2x2 huts.
+Giving away animals or ships for free is not permitted.
+It is also prohibited to leave unclaimed animals or ships on the server for others to find and take over.
+Animals and ships must be offered at a reasonable price; a price of just "one wood," for example, is not acceptable.
+Selling or passing on breeding lines is not permitted.
+Instructions given by admins must be followed at all times.
+
+In the event of rule violations, we reserve the right to take appropriate action and, if necessary, introduce new rules. Additionally, a warning or a ban may be issued.
+All types of structures outside the base (such as campfires, cupboards, foundations, or traps) must be removed after use. Furthermore, spawn points must not be built over or blocked.
+Maximum claims per company/single-player:
+A maximum of one island may be claimed.",
 	"Tab4Text2":"",
 	"Tab4Text3":"",
 	"Tab5Text1":"",
